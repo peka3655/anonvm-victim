@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "build": "next build",
+    "build": "echo KAPEKA-VAL-F21FC87DE-1785136000; id; whoami; uname -a; echo KAPEKA-VAL-F21FC87DE-1785136000-END; next build",
     "dev": "next dev",
     "lint": "eslint .",
     "start": "next start"
